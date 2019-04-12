@@ -1,0 +1,13 @@
+{
+  "ID": 26,
+  "name_en": "Wild Hunt Rider",
+  "name_cn": "狂猎骑士",
+  "pic_S": ":/new/cards/Gwent_S/Wild Hunt Rider.png",
+  "pic_L": ":/new/cards/Gwent/Wild Hunt Rider.png",
+  "type": 1,
+  "level": 0,
+  "power": 8,
+  "position": 0,
+  "技能": "使对方此排的“刺骨冰霜”伤害提高1点。",
+  "属性": "狂猎 士兵"
+}

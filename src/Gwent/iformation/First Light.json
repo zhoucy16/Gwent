@@ -1,0 +1,13 @@
+{
+  "ID": 0,
+  "name_en": "First Light",
+  "name_cn": "破晓",
+  "pic_S": ":/new/cards/Gwent_S/First Light.png",
+  "pic_L": ":/new/cards/Gwent/First Light.png",
+  "type": 0,
+  "level": 0,
+  "power": 0,
+  "position": 0,
+  "技能": "生成“晴空”或“重整”。",
+  "属性": "特殊"
+}

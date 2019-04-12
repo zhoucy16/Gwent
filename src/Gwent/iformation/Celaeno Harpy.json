@@ -1,0 +1,13 @@
+{
+  "ID": 15,
+  "name_en": "Celaeno Harpy",
+  "name_cn": "赛尔伊诺鹰身女妖",
+  "pic_S": ":/new/cards/Gwent_S/Celaeno Harpy.png",
+  "pic_L": ":/new/cards/Gwent/Celaeno Harpy.png",
+  "type": 1,
+  "level": 0,
+  "power": 5,
+  "position": 0,
+  "技能": "部署：在自身左侧生成2个“鹰身女妖蛋”。",
+  "属性": "野兽"
+}

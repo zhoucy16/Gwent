@@ -1,0 +1,13 @@
+{
+  "ID": 33,
+  "name_en": "Arachas Hatchling",
+  "name_cn": "蟹蜘蛛幼虫",
+  "pic_S": ":/new/cards/Gwent_S/Arachas Hatchling.png",
+  "pic_L": ":/new/cards/Gwent/Arachas Hatchling.png",
+  "type": 1,
+  "level": 0,
+  "power": 3,
+  "position": 0,
+  "技能": "部署：从牌组打出所有“蟹蜘蛛\"单位。",
+  "属性": "类虫生物 佚亡"
+}

@@ -1,0 +1,83 @@
+<RCC>
+    <qresource prefix="/new/cards">
+        <file>field/Battlefield.png</file>
+        <file>field/confirm.png</file>
+        <file>field/Selectfield.png</file>
+        <file>Gwent/Arachas Behemoth.png</file>
+        <file>Gwent/Arachas Hatchling.png</file>
+        <file>Gwent/Arachas.png</file>
+        <file>Gwent/Archgriffin.png</file>
+        <file>Gwent/Bekker's Twisted Mirror.png</file>
+        <file>Gwent/Biting Frost.png</file>
+        <file>Gwent/Caranthir.png</file>
+        <file>Gwent/Celaeno Harpy.png</file>
+        <file>Gwent/Clear Skies.png</file>
+        <file>Gwent/Commander's Horn.png</file>
+        <file>Gwent/Crone Brewess.png</file>
+        <file>Gwent/Crone Weavess.png</file>
+        <file>Gwent/Crone Whispess.png</file>
+        <file>Gwent/Dagon.png</file>
+        <file>Gwent/Deck.png</file>
+        <file>Gwent/Earth Elemental.png</file>
+        <file>Gwent/First Light.png</file>
+        <file>Gwent/Foglet.png</file>
+        <file>Gwent/Frightener.png</file>
+        <file>Gwent/Full Moon Potion.png</file>
+        <file>Gwent/Ge'els.png</file>
+        <file>Gwent/Geralt Igni.png</file>
+        <file>Gwent/harpy egg.png</file>
+        <file>Gwent/Harpy Hatchling.png</file>
+        <file>Gwent/Impenetrable Fog.png</file>
+        <file>Gwent/Lacerate.png</file>
+        <file>Gwent/Lesser Earth Elemental.png</file>
+        <file>Gwent/Rabid Wolf.png</file>
+        <file>Gwent/Rally.png</file>
+        <file>Gwent/Roach.png</file>
+        <file>Gwent/Thunderbolt Potion.png</file>
+        <file>Gwent/Torrential Rain.png</file>
+        <file>Gwent/Unseen Elder.png</file>
+        <file>Gwent/Vran Warrior.png</file>
+        <file>Gwent/Wild Hunt Rider.png</file>
+        <file>Gwent/Woodland Spirit.png</file>
+        <file>Gwent_S/Arachas Behemoth.png</file>
+        <file>Gwent_S/Arachas Hatchling.png</file>
+        <file>Gwent_S/Arachas.png</file>
+        <file>Gwent_S/Archgriffin.png</file>
+        <file>Gwent_S/Bekker's Twisted Mirror.png</file>
+        <file>Gwent_S/Biting Frost.png</file>
+        <file>Gwent_S/Caranthir.png</file>
+        <file>Gwent_S/Celaeno Harpy.png</file>
+        <file>Gwent_S/Clear Skies.png</file>
+        <file>Gwent_S/Commander's Horn.png</file>
+        <file>Gwent_S/Crone Brewess.png</file>
+        <file>Gwent_S/Crone Weavess.png</file>
+        <file>Gwent_S/Crone Whispess.png</file>
+        <file>Gwent_S/Dagon.png</file>
+        <file>Gwent_S/Earth Elemental.png</file>
+        <file>Gwent_S/First Light.png</file>
+        <file>Gwent_S/Foglet.png</file>
+        <file>Gwent_S/Frightener.png</file>
+        <file>Gwent_S/Full Moon Potion.png</file>
+        <file>Gwent_S/Ge'els.png</file>
+        <file>Gwent_S/Geralt Igni.png</file>
+        <file>Gwent_S/harpy egg.png</file>
+        <file>Gwent_S/Harpy Hatchling.png</file>
+        <file>Gwent_S/Impenetrable Fog.png</file>
+        <file>Gwent_S/Lacerate.png</file>
+        <file>Gwent_S/Lesser Earth Elemental.png</file>
+        <file>Gwent_S/Rabid Wolf.png</file>
+        <file>Gwent_S/Rally.png</file>
+        <file>Gwent_S/Torrential Rain.png</file>
+        <file>Gwent_S/Unseen Elder.png</file>
+        <file>Gwent_S/Vran Warrior.png</file>
+        <file>Gwent_S/Wild Hunt Rider.png</file>
+        <file>Gwent_S/Woodland Spirit.png</file>
+        <file>field/deck_A.jpg</file>
+        <file>field/deck_B.jpg</file>
+        <file>field/exit.jpg</file>
+        <file>field/game.jpg</file>
+        <file>field/menu.jpeg</file>
+        <file>field/score.jpg</file>
+        <file>field/gwent.ico</file>
+    </qresource>
+</RCC>

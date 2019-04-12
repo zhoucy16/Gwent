@@ -1,0 +1,13 @@
+{
+  "ID": 27,
+  "name_en": "Caranthir",
+  "name_cn": "卡兰希尔",
+  "pic_S": ":/new/cards/Gwent_S/Caranthir.png",
+  "pic_L": ":/new/cards/Gwent/Caranthir.png",
+  "type": 1,
+  "level": 2,
+  "power": 8,
+  "position": 0,
+  "技能": "部署：将1个敌军单位移至其所在半场同排，并在此排降下刺骨冰霜。",
+  "属性": "狂猎 法师"
+}

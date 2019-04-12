@@ -1,0 +1,74 @@
+﻿生成启动时间为 2017/12/21 20:47:41。
+     1>项目“Y:\Share\myGwent_win\src\Gwent\Gwent.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing battlefield.h...
+         Moc'ing card.h...
+         Moc'ing field.h...
+         Moc'ing menufield.h...
+         Moc'ing scorefield.h...
+         Moc'ing selectscene.h...
+         Rcc'ing json.qrc...
+         Rcc'ing picture.qrc...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /IC:\Qt\Qt5.5.0\5.5\msvc2012\include /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtWidgets /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtGui /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtANGLE /IC:\Qt\Qt5.5.0\5.5\msvc2012\include\QtCore /Idebug /I"C:\Qt\Qt5.5.0\5.5\msvc2012\mkspecs\win32-msvc2012" /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_DEPRECATED_WARNINGS /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 battlefield.cpp card.cpp cardslaundry.cpp Debug\moc_battlefield.cpp Debug\moc_card.cpp Debug\moc_field.cpp Debug\moc_menufield.cpp Debug\moc_scorefield.cpp Debug\moc_selectscene.cpp field.cpp main.cpp menufield.cpp scorefield.cpp selectscene.cpp
+         battlefield.cpp
+     1>battlefield.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>battlefield.cpp(185): error C2001: 常量中有换行符
+     1>battlefield.cpp(186): error C2146: 语法错误: 缺少“)”(在标识符“text_change”的前面)
+     1>battlefield.cpp(207): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>battlefield.cpp(207): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>battlefield.cpp(516): error C2001: 常量中有换行符
+     1>battlefield.cpp(517): error C2146: 语法错误: 缺少“)”(在标识符“text_change”的前面)
+     1>battlefield.cpp(521): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>battlefield.cpp(521): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>battlefield.cpp(521): error C2065: “i”: 未声明的标识符
+     1>battlefield.cpp(522): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>battlefield.cpp(553): error C2001: 常量中有换行符
+     1>battlefield.cpp(554): error C2146: 语法错误: 缺少“)”(在标识符“text_change”的前面)
+     1>battlefield.cpp(558): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>battlefield.cpp(558): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>battlefield.cpp(558): error C2065: “i”: 未声明的标识符
+     1>battlefield.cpp(559): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>battlefield.cpp(608): error C2001: 常量中有换行符
+     1>battlefield.cpp(609): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>battlefield.cpp(609): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>battlefield.cpp(634): error C2001: 常量中有换行符
+     1>battlefield.cpp(635): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>battlefield.cpp(635): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+         card.cpp
+     1>card.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>card.cpp(3): warning C4100: “scene”: 未引用的形参
+     1>card.cpp(122): warning C4100: “scene”: 未引用的形参
+     1>card.cpp(148): warning C4100: “widget”: 未引用的形参
+     1>card.cpp(148): warning C4100: “option”: 未引用的形参
+     1>card.cpp(177): warning C4100: “event”: 未引用的形参
+     1>card.cpp(182): warning C4100: “event”: 未引用的形参
+     1>card.cpp(268): error C2001: 常量中有换行符
+     1>card.cpp(269): error C2143: 语法错误 : 缺少“)”(在“{”的前面)
+     1>card.cpp(270): error C2001: 常量中有换行符
+     1>card.cpp(271): error C2143: 语法错误 : 缺少“)”(在“if”的前面)
+     1>card.cpp(272): error C2143: 语法错误 : 缺少“)”(在“{”的前面)
+     1>card.cpp(272): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+         cardslaundry.cpp
+         moc_battlefield.cpp
+         moc_card.cpp
+         moc_field.cpp
+         moc_menufield.cpp
+         moc_scorefield.cpp
+         moc_selectscene.cpp
+         field.cpp
+     1>field.cpp(3): warning C4100: “parent”: 未引用的形参
+     1>field.cpp(3): warning C4100: “scene”: 未引用的形参
+     1>field.cpp(13): warning C4100: “widget”: 未引用的形参
+     1>field.cpp(13): warning C4100: “option”: 未引用的形参
+         main.cpp
+         menufield.cpp
+         scorefield.cpp
+         selectscene.cpp
+     1>selectscene.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+     1>已完成生成项目“Y:\Share\myGwent_win\src\Gwent\Gwent.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:01:59.24

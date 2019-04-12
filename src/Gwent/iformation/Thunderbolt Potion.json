@@ -1,0 +1,13 @@
+{
+  "ID": 8,
+  "name_en": "Thunderbolt Potion",
+  "name_cn": "雷霆药水",
+  "pic_S": ":/new/cards/Gwent_S/Thunderbolt Potion.png",
+  "pic_L": ":/new/cards/Gwent/Thunderbolt Potion.png",
+  "type": 0,
+  "level": 0,
+  "power": 0,
+  "position": 0,
+  "技能": "使 3 个相邻单位获得 2 点护甲和 3 点增益。",
+  "属性": "炼金 特殊"
+}

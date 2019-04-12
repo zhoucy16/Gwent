@@ -1,0 +1,13 @@
+{
+  "ID": 6,
+  "name_en": "Lacerate",
+  "name_cn": "撕裂",
+  "pic_S": ":/new/cards/Gwent_S/Lacerate.png",
+  "pic_L": ":/new/cards/Gwent/Lacerate.png",
+  "type": 0,
+  "level": 0,
+  "power": 0,
+  "position": 1,
+  "技能": "对单排所有单位造成3点伤害。",
+  "属性": "特殊 生物"
+}

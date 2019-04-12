@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{e81a8a55-9900-4207-884c-33944209f88d}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{9ddf0b2b-cf32-4779-ae3b-40600e443614}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="battlefield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cardslaundry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="field.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menufield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scorefield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="selectscene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_battlefield.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_battlefield.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_card.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_card.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_field.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_field.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_menufield.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_menufield.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_scorefield.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_scorefield.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_selectscene.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_selectscene.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_json.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_picture.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="battlefield.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="card.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="cardslaundry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="field.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="menufield.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="scorefield.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="selectscene.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iformation\Arachas.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Arachas.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Arachas.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Arachas">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Arachas">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Arachas">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Archgriffin.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Archgriffin.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Archgriffin.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\Battlefield.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Behemoth.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Behemoth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Bekker's">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Bekker's">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Bekker's">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Biting">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Biting">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Biting">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Brewess.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Brewess.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Caranthir.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Caranthir.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Caranthir.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Celaeno">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Celaeno">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Celaeno">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Clear">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Clear">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Clear">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Commander's">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Commander's">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Commander's">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Crone">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Crone">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Crone">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Dagon.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Dagon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Dagon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Deck.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Earth">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Earth">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Earth">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Earth">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Elder.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Elder.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Elemental.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Elemental.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\First">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\First">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\First">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Fog.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Fog.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Foglet.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Foglet.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Foglet.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Frightener.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Frightener.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Frightener.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Frost.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Frost.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Full">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Full">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Full">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Ge'els.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Ge'els.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Ge'els.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Geralt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Geralt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Geralt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Harpy.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Harpy.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Harpy">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Harpy">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Harpy">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hatchling.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hatchling.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Horn.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Horn.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Hunt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Igni.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Igni.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Impenetrable">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Impenetrable">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Impenetrable">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Lacerate.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Lacerate.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Lacerate.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Lesser">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Lesser">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Lesser">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Light.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Light.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Mirror.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Mirror.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Moon">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Potion.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Potion.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Rabid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Rabid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Rabid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Rain.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Rain.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Rally.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Rally.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Rally.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Rider.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Rider.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Roach.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Roach.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\Selectfield.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Skies.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Skies.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Spirit.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Spirit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Thunderbolt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Thunderbolt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Torrential">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Torrential">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Torrential">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Twisted">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Unseen">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Unseen">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Unseen">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Vran">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Vran">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Vran">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Warrior.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Warrior.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Weavess.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Weavess.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Whispess.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Whispess.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Wild">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Wild">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Wild">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Wolf.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Wolf.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\Woodland">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\Woodland">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Woodland">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\confirm.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\deck_A.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\deck_B.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="egg.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="egg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\exit.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\game.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="field\gwent.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\harpy">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent_S\harpy">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\harpy">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="json.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="field\menu.jpeg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="picture.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="field\score.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Gwent\harpy" />
+    <None Include="Gwent_S\harpy" />
+    <None Include="iformation\harpy" />
+    <None Include="iformation\Arachas Behemoth.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Arachas Hatchling.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Bekker%27s Twisted Mirror.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Biting Frost.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Celaeno Harpy.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Clear Skies.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Commander%27s Horn.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Crone Brewess.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Crone Weavess.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Crone Whispess.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Earth Elemental.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\First Light.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Full Moon Potion.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Geralt Igni.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\harpy egg.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Harpy Hatchling.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Impenetrable Fog.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Lesser Earth Elemental.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Rabid Wolf.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Thunderbolt Potion.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Torrential Rain.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Unseen Elder.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Vran Warrior.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Wild Hunt Rider.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iformation\Woodland Spirit.json">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Gwent\Arachas Behemoth.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Arachas Hatchling.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Bekker%27s Twisted Mirror.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Biting Frost.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Celaeno Harpy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Clear Skies.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Commander%27s Horn.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Crone Brewess.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Crone Weavess.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Crone Whispess.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Earth Elemental.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\First Light.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Full Moon Potion.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Geralt Igni.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\harpy egg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Harpy Hatchling.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Impenetrable Fog.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Lesser Earth Elemental.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Rabid Wolf.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Thunderbolt Potion.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Torrential Rain.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Unseen Elder.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Vran Warrior.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Wild Hunt Rider.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent\Woodland Spirit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Arachas Behemoth.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Arachas Hatchling.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Bekker%27s Twisted Mirror.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Biting Frost.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Celaeno Harpy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Clear Skies.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Commander%27s Horn.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Crone Brewess.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Crone Weavess.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Crone Whispess.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Earth Elemental.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\First Light.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Full Moon Potion.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Geralt Igni.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\harpy egg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Harpy Hatchling.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Impenetrable Fog.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Lesser Earth Elemental.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Rabid Wolf.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Torrential Rain.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Unseen Elder.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Vran Warrior.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Wild Hunt Rider.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Gwent_S\Woodland Spirit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+{
+  "ID": 5,
+  "name_en": "Torrential Rain",
+  "name_cn": "倾盆大雨",
+  "pic_S": ":/new/cards/Gwent_S/Torrential Rain.png",
+  "pic_L": ":/new/cards/Gwent/Torrential Rain.png",
+  "type": 0,
+  "level": 0,
+  "power": 0,
+  "position": 1,
+  "技能": "在对方单排降下“倾盆大雨”。\n倾盆大雨：每当己方回合开始时，对所在排最多2个随机单位造成1点伤害。",
+  "属性": "特殊 天气"
+}

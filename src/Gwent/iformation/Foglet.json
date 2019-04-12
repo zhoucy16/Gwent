@@ -1,0 +1,13 @@
+{
+  "ID": 13,
+  "name_en": "Foglet",
+  "name_cn": "小雾妖",
+  "pic_S": ":/new/cards/Gwent_S/Foglet.png",
+  "pic_L": ":/new/cards/Gwent/Foglet.png",
+  "type": 1,
+  "level": 0,
+  "power": 4,
+  "position": 0,
+  "技能": "每当己方“蔽日浓雾”在敌排生效，便从牌组打出1个“小雾妖”至己方同排。若牌组中没有“小雾妖”，则复活1个“小雾妖”至己方同排。若场上不再存在“蔽日浓雾”效果，则摧毁所有“小雾妖”。",
+  "属性": "食腐生物"
+}

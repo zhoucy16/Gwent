@@ -1,0 +1,13 @@
+{
+  "ID": 32,
+  "name_en": "Arachas Behemoth",
+  "name_cn": "蟹蜘蛛巨兽",
+  "pic_S": ":/new/cards/Gwent_S/Arachas Behemoth.png",
+  "pic_L": ":/new/cards/Gwent/Arachas Behemoth.png",
+  "type": 1,
+  "level": 0,
+  "power": 6,
+  "position": 5,
+  "技能": "部署：获得2点护甲。\n每当有友军单位吞噬1张牌，便在随机排生成1只“蟹蜘蛛幼虫”，随后受到1点伤害（无视护甲）。",
+  "属性": "类虫生物"
+}

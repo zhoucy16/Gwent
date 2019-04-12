@@ -1,0 +1,13 @@
+{
+  "ID": 24,
+  "name_en": "Crone Whispess",
+  "name_cn": "老巫妪：呢喃婆",
+  "pic_S": ":/new/cards/Gwent_S/Crone Whispess.png",
+  "pic_L": ":/new/cards/Gwent/Crone Whispess.png",
+  "type": 1,
+  "level": 1,
+  "power": 6,
+  "position": 5,
+  "技能": "部署：从牌组打出“煮婆”和“织婆”。",
+  "属性": "法师 残物"
+}

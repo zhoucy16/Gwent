@@ -1,0 +1,13 @@
+{
+  "ID": 29,
+  "name_en": "Unseen Elder",
+  "name_cn": "暗影长者",
+  "pic_S": ":/new/cards/Gwent_S/Unseen Elder.png",
+  "pic_L": ":/new/cards/Gwent/Unseen Elder.png",
+  "type": 1,
+  "level": 3,
+  "power": 5,
+  "position": 0,
+  "技能": "部署：吞噬1个友军单位，吸收它们的战力为自身的基础战力。重复两次。",
+  "属性": "领袖牌 吸血鬼 佚亡 坚守"
+}

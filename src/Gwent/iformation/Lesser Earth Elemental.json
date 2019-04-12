@@ -1,0 +1,13 @@
+{
+  "ID": 21,
+  "name_en": "Lesser Earth Elemental",
+  "name_cn": "次级土元素",
+  "pic_S": ":/new/cards/Gwent_S/Lesser Earth Elemental.png",
+  "pic_L": ":/new/cards/Gwent/Lesser Earth Elemental.png",
+  "type": 1,
+  "level": 0,
+  "power": 2,
+  "position": 0,
+  "技能": "无",
+  "属性": "构造体 佚亡"
+}

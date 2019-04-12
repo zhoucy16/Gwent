@@ -1,0 +1,13 @@
+{
+  "ID": 22,
+  "name_en": "Crone Weavess",
+  "name_cn": "老巫妪：织婆",
+  "pic_S": ":/new/cards/Gwent_S/Crone Weavess.png",
+  "pic_L": ":/new/cards/Gwent/Crone Weavess.png",
+  "type": 1,
+  "level": 1,
+  "power": 6,
+  "position": 5,
+  "技能": "部署：从牌组打出“煮婆”和“呢喃婆”。",
+  "属性": "法师 残物"
+}

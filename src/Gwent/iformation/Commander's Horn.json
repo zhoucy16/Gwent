@@ -1,0 +1,13 @@
+{
+  "ID": 9,
+  "name_en": "Commander's Horn",
+  "name_cn": "指挥号角",
+  "pic_S": ":/new/cards/Gwent_S/Commander's Horn.png",
+  "pic_L": ":/new/cards/Gwent/Commander's Horn.png",
+  "type": 0,
+  "level": 1,
+  "power": 0,
+  "position": 0,
+  "技能": "使5个相邻单位获得4点增益。",
+  "属性": "特殊 谋略"
+}

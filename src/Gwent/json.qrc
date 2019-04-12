@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new/cards">
+        <file>iformation/Arachas Behemoth.json</file>
+        <file>iformation/Arachas Hatchling.json</file>
+        <file>iformation/Arachas.json</file>
+        <file>iformation/Archgriffin.json</file>
+        <file>iformation/Bekker's Twisted Mirror.json</file>
+        <file>iformation/Biting Frost.json</file>
+        <file>iformation/Caranthir.json</file>
+        <file>iformation/Celaeno Harpy.json</file>
+        <file>iformation/Clear Skies.json</file>
+        <file>iformation/Commander's Horn.json</file>
+        <file>iformation/Crone Brewess.json</file>
+        <file>iformation/Crone Weavess.json</file>
+        <file>iformation/Crone Whispess.json</file>
+        <file>iformation/Dagon.json</file>
+        <file>iformation/Earth Elemental.json</file>
+        <file>iformation/First Light.json</file>
+        <file>iformation/Foglet.json</file>
+        <file>iformation/Frightener.json</file>
+        <file>iformation/Full Moon Potion.json</file>
+        <file>iformation/Ge'els.json</file>
+        <file>iformation/Geralt Igni.json</file>
+        <file>iformation/harpy egg.json</file>
+        <file>iformation/Harpy Hatchling.json</file>
+        <file>iformation/Impenetrable Fog.json</file>
+        <file>iformation/Lacerate.json</file>
+        <file>iformation/Lesser Earth Elemental.json</file>
+        <file>iformation/Rabid Wolf.json</file>
+        <file>iformation/Rally.json</file>
+        <file>iformation/Roach.json</file>
+        <file>iformation/Thunderbolt Potion.json</file>
+        <file>iformation/Torrential Rain.json</file>
+        <file>iformation/Unseen Elder.json</file>
+        <file>iformation/Vran Warrior.json</file>
+        <file>iformation/Wild Hunt Rider.json</file>
+        <file>iformation/Woodland Spirit.json</file>
+    </qresource>
+</RCC>

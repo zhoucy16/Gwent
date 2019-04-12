@@ -1,0 +1,13 @@
+{
+  "ID": 34,
+  "name_en": "Roach",
+  "name_cn": "萝卜",
+  "pic_S": ":/new/cards/Gwent_S/Roach.png",
+  "pic_L": ":/new/cards/Gwent/Roach.png",
+  "type": 1,
+  "level": 1,
+  "power": 4,
+  "position": 0,
+  "技能": "己方每次从手牌打出金色牌时（领袖牌除外），便将牌组中的“萝卜”在其能力结算之前召唤至随机位置。",
+  "属性": "野兽"
+}

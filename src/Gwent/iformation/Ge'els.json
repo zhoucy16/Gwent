@@ -1,0 +1,13 @@
+{
+  "ID": 14,
+  "name_en": "Ge'els",
+  "name_cn": "盖尔",
+  "pic_S": ":/new/cards/Gwent_S/Ge'els.png",
+  "pic_L": ":/new/cards/Gwent/Ge'els.png",
+  "type": 1,
+  "level": 2,
+  "power": 1,
+  "position": 0,
+  "技能": "部署：从牌组顶端各抽1张金色牌和银色牌。打出1张，将另1张置于牌组顶端。",
+  "属性": "狂猎"
+}

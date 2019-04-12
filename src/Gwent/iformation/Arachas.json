@@ -1,0 +1,13 @@
+{
+  "ID": 30,
+  "name_en": "Arachas",
+  "name_cn": "蟹蜘蛛",
+  "pic_S": ":/new/cards/Gwent_S/Arachas.png",
+  "pic_L": ":/new/cards/Gwent/Arachas.png",
+  "type": 1,
+  "level": 0,
+  "power": 3,
+  "position": 4,
+  "技能": "无",
+  "属性": "类虫生物"
+}

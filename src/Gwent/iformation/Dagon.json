@@ -1,0 +1,13 @@
+{
+  "ID": 12,
+  "name_en": "Dagon",
+  "name_cn": "达冈",
+  "pic_S": ":/new/cards/Gwent_S/Dagon.png",
+  "pic_L": ":/new/cards/Gwent/Dagon.png",
+  "type": 1,
+  "level": 3,
+  "power": 6,
+  "position": 0,
+  "技能": "部署：生成“刺骨冰霜”、“蔽日浓雾”或“倾盆大雨”。",
+  "属性": "领袖牌 水生 佚亡 坚守"
+}

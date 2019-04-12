@@ -1,0 +1,13 @@
+{
+  "ID": 18,
+  "name_en": "Woodland Spirit",
+  "name_cn": "林妖",
+  "pic_S": ":/new/cards/Gwent_S/Woodland Spirit.png",
+  "pic_L": ":/new/cards/Gwent/Woodland Spirit.png",
+  "type": 1,
+  "level": 2,
+  "power": 5,
+  "position": 0,
+  "技能": "部署：生成3只“暴怒的狼”，并在对方同排降下“蔽日浓雾”。",
+  "属性": "残物"
+}

@@ -1,0 +1,13 @@
+{
+  "ID": 16,
+  "name_en": "harpy egg",
+  "name_cn": "鹰身女妖蛋",
+  "pic_S": ":/new/cards/Gwent_S/harpy egg.png",
+  "pic_L": ":/new/cards/Gwent/harpy egg.png",
+  "type": 1,
+  "level": 0,
+  "power": 1,
+  "position": 0,
+  "技能": "使吞噬自身的单位获得额外4点增益。\n遗愿：在随机排生成1只影身女妖幼崽。",
+  "属性": "佚亡"
+}

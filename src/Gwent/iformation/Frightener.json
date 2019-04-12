@@ -1,0 +1,13 @@
+{
+  "ID": 28,
+  "name_en": "Frightener",
+  "name_cn": "畏惧者",
+  "pic_S": ":/new/cards/Gwent_S/Frightener.png",
+  "pic_L": ":/new/cards/Gwent/Frightener.png",
+  "type": 1,
+  "level": 1,
+  "power": 12,
+  "position": 1,
+  "技能": "部署：从牌组顶端抽1张牌。将所在战场其他排的1个单位移至自身的同一排。",
+  "属性": "构造体 密探 佚亡"
+}
